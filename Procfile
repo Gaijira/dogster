@@ -1,2 +1,2 @@
-web: node ./app.js
 web:pwd
+web: node ./app.js
